@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("bonjour tout le monde");
+        System.out.println("bonsoir tout le monde");
         }
 
 }
